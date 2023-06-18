@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33516.290
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "Projekt_ze_slowami", "Projekt_ze_slowami\Projekt_ze_slowami.pyproj", "{3EB25297-A0C5-4A16-AF4F-DAE92E7100A9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3EB25297-A0C5-4A16-AF4F-DAE92E7100A9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3EB25297-A0C5-4A16-AF4F-DAE92E7100A9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {070A5AC3-4D43-4D24-87E8-89CD065BDB85}
+	EndGlobalSection
+EndGlobal
